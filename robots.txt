@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trindu.github.io/rss/sitemap.txt
+Sitemap: https://trindu.github.io/rss/sitemap-page.txt
